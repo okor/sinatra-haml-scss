@@ -1,0 +1,1 @@
+web: bundle exec shotgun app.rb
