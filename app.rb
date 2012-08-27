@@ -1,7 +1,6 @@
 require 'sinatra'
 require 'haml'
 require 'sass'
-require 'mongoid'
 
 # add sprockets in future
 # import libs
