@@ -4,4 +4,8 @@ This is a very simple example of how to use HAML and SCSS with Sinatra. To get s
 
 To start up locally, just run:
 
-    foreman start
+    rackup
+
+Or if you prefew
+
+    shotgun
