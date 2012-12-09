@@ -6,6 +6,6 @@ To start up locally, just run:
 
     rackup
 
-Or if you prefew
+Or if you prefer
 
     shotgun
